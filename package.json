@@ -1,0 +1,24 @@
+{
+  "name": "customerview",
+  "version": "1.0.0",
+  "description": "JSON Package",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "CustomerView"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaszutz/customerView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaszutz/customerView/issues"
+  },
+  "homepage": "https://github.com/aaszutz/customerView#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
